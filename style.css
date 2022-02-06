@@ -1,0 +1,28 @@
+* {
+	font-family:  "Open Sans" , sans-serif;
+}
+body {
+	display:  flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0px;
+	padding: 0px;
+	max-height: 500px;
+	max-width: 1920px;
+	overflow: hidden;
+	text-align: justify;
+	background-color: #262626;
+	-webkit-font-smoothing: antialiased;
+}
+p {
+	font-size: 10px;
+	line-height: 0.9;
+	background-size: cover;
+	background-repeat:  no-repeat;
+	background-position: center;
+	background-image: url("./images/hanz.jpg");
+	background-attachment: fixed;
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: rgba(255, 255, 255, 0.02);
+}
