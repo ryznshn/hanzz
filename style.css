@@ -2,13 +2,8 @@
 	font-family:  "Open Sans" , sans-serif;
 }
 body {
-	display:  flex;
-	align-items: center;
-	justify-content: center;
 	margin: 0px;
 	padding: 0px;
-	max-height: 500px;
-	max-width: 1920px;
 	overflow: hidden;
 	text-align: justify;
 	background-color: #262626;
